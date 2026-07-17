@@ -3,21 +3,21 @@ class Solution {
         
            s = s.toLowerCase(); 
 
-        StringBuilder result = new StringBuilder();
+        ArrayList<Character> result = new ArrayList<>();
        
          for(int i=0; i<s.length(); i++){
             char c = s.charAt(i);
               if (c >= 'a' && c <= 'z'|| (c >= '0' && c <= '9')) {
-                    result.append(c);
+                    result.add(c);
             }
         }
          
         int left = 0;
-        int right = result.length() - 1;
+        int right = result.size() - 1;
         
        
         while (left < right) {
-            if (result.charAt(left) != result.charAt(right)) {
+            if (result.get(left) != result.get(right)) {
                 return false;
             }
             left++;
