@@ -7,7 +7,7 @@ class Solution {
             
                 j--;
         }
-        for(int i=0; i<j+1; i++){
+        for(int i=0; i<=j; i++){
             if(s.charAt(i)!=' '){
                 count++;
             }
