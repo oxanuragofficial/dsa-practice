@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/oxanuragofficial/dsa-practice/tree/master/0001-two-sum) |
 | [0059-spiral-matrix-ii](https://github.com/oxanuragofficial/dsa-practice/tree/master/0059-spiral-matrix-ii) |
 | [0189-rotate-array](https://github.com/oxanuragofficial/dsa-practice/tree/master/0189-rotate-array) |
+| [0766-toeplitz-matrix](https://github.com/oxanuragofficial/dsa-practice/tree/master/0766-toeplitz-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/oxanuragofficial/dsa-practice/tree/master/0059-spiral-matrix-ii) |
+| [0766-toeplitz-matrix](https://github.com/oxanuragofficial/dsa-practice/tree/master/0766-toeplitz-matrix) |
 ## Simulation
 |  |
 | ------- |
