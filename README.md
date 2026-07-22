@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/oxanuragofficial/dsa-practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/oxanuragofficial/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/oxanuragofficial/dsa-practice/tree/master/0383-ransom-note) |
+| [1768-merge-strings-alternately](https://github.com/oxanuragofficial/dsa-practice/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/oxanuragofficial/dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sliding Window
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/oxanuragofficial/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/oxanuragofficial/dsa-practice/tree/master/0189-rotate-array) |
+| [1768-merge-strings-alternately](https://github.com/oxanuragofficial/dsa-practice/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
