@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/oxanuragofficial/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/oxanuragofficial/dsa-practice/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/oxanuragofficial/dsa-practice/tree/master/0008-string-to-integer-atoi) |
 | [0058-length-of-last-word](https://github.com/oxanuragofficial/dsa-practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/oxanuragofficial/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/oxanuragofficial/dsa-practice/tree/master/0383-ransom-note) |
