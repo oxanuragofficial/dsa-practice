@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/oxanuragofficial/dsa-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/oxanuragofficial/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/oxanuragofficial/dsa-practice/tree/master/0012-integer-to-roman) |
 | [0383-ransom-note](https://github.com/oxanuragofficial/dsa-practice/tree/master/0383-ransom-note) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/oxanuragofficial/dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/oxanuragofficial/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/oxanuragofficial/dsa-practice/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/oxanuragofficial/dsa-practice/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/oxanuragofficial/dsa-practice/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/oxanuragofficial/dsa-practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/oxanuragofficial/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/oxanuragofficial/dsa-practice/tree/master/0383-ransom-note) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/oxanuragofficial/dsa-practice/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/oxanuragofficial/dsa-practice/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/oxanuragofficial/dsa-practice/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/oxanuragofficial/dsa-practice/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/oxanuragofficial/dsa-practice/tree/master/0415-add-strings) |
