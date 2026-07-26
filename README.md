@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/oxanuragofficial/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/oxanuragofficial/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/oxanuragofficial/dsa-practice/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/oxanuragofficial/dsa-practice/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/oxanuragofficial/dsa-practice/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/oxanuragofficial/dsa-practice/tree/master/0059-spiral-matrix-ii) |
 | [0118-pascals-triangle](https://github.com/oxanuragofficial/dsa-practice/tree/master/0118-pascals-triangle) |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/oxanuragofficial/dsa-practice/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/oxanuragofficial/dsa-practice/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
