@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/oxanuragofficial/dsa-practice/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/oxanuragofficial/dsa-practice/tree/master/0059-spiral-matrix-ii) |
 | [0118-pascals-triangle](https://github.com/oxanuragofficial/dsa-practice/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/oxanuragofficial/dsa-practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oxanuragofficial/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/oxanuragofficial/dsa-practice/tree/master/0189-rotate-array) |
 | [0766-toeplitz-matrix](https://github.com/oxanuragofficial/dsa-practice/tree/master/0766-toeplitz-matrix) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/oxanuragofficial/dsa-practice/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/oxanuragofficial/dsa-practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oxanuragofficial/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
 |  |
