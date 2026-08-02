@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/oxanuragofficial/dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/oxanuragofficial/dsa-practice/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/oxanuragofficial/dsa-practice/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/oxanuragofficial/dsa-practice/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/oxanuragofficial/dsa-practice/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/oxanuragofficial/dsa-practice/tree/master/0059-spiral-matrix-ii) |
 | [0118-pascals-triangle](https://github.com/oxanuragofficial/dsa-practice/tree/master/0118-pascals-triangle) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/oxanuragofficial/dsa-practice/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/oxanuragofficial/dsa-practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/oxanuragofficial/dsa-practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oxanuragofficial/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/oxanuragofficial/dsa-practice/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/oxanuragofficial/dsa-practice/tree/master/0045-jump-game-ii) |
 ## Trie
 |  |
 | ------- |
