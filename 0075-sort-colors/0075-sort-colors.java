@@ -7,7 +7,7 @@ class Solution {
             if(nums[i]==0){
                 zc++;
             }
-            if(nums[i]==1){
+            else if(nums[i]==1){
                 oc++;
             }
             else tc++;
