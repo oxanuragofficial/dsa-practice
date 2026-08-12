@@ -139,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/oxanuragofficial/dsa-practice/tree/master/0075-sort-colors) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/oxanuragofficial/dsa-practice/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/oxanuragofficial/dsa-practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
