@@ -156,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/oxanuragofficial/dsa-practice/tree/master/0002-add-two-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/oxanuragofficial/dsa-practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
