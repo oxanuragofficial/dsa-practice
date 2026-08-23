@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/oxanuragofficial/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/oxanuragofficial/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/oxanuragofficial/dsa-practice/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/oxanuragofficial/dsa-practice/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/oxanuragofficial/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/oxanuragofficial/dsa-practice/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/oxanuragofficial/dsa-practice/tree/master/0415-add-strings) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/oxanuragofficial/dsa-practice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/oxanuragofficial/dsa-practice/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/oxanuragofficial/dsa-practice/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/oxanuragofficial/dsa-practice/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/oxanuragofficial/dsa-practice/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/oxanuragofficial/dsa-practice/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/oxanuragofficial/dsa-practice/tree/master/0877-stone-game) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/oxanuragofficial/dsa-practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/oxanuragofficial/dsa-practice/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/oxanuragofficial/dsa-practice/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/oxanuragofficial/dsa-practice/tree/master/0415-add-strings) |
 ## Counting
 |  |
@@ -162,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/oxanuragofficial/dsa-practice/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/oxanuragofficial/dsa-practice/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
