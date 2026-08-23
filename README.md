@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/oxanuragofficial/dsa-practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/oxanuragofficial/dsa-practice/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/oxanuragofficial/dsa-practice/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/oxanuragofficial/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/oxanuragofficial/dsa-practice/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/oxanuragofficial/dsa-practice/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/oxanuragofficial/dsa-practice/tree/master/0877-stone-game) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/oxanuragofficial/dsa-practice/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/oxanuragofficial/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/oxanuragofficial/dsa-practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/oxanuragofficial/dsa-practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oxanuragofficial/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/oxanuragofficial/dsa-practice/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/oxanuragofficial/dsa-practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
