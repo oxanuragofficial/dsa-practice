@@ -11,10 +11,7 @@ class Solution {
                    
                     arr[0] = mid;
                     right=mid-1;
-                
-               
 
-                
             }
             else if(nums[mid]<target){
                 left=mid+1;
