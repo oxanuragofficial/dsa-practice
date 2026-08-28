@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/oxanuragofficial/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/oxanuragofficial/dsa-practice/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/oxanuragofficial/dsa-practice/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/oxanuragofficial/dsa-practice/tree/master/0441-arranging-coins) |
 | [0877-stone-game](https://github.com/oxanuragofficial/dsa-practice/tree/master/0877-stone-game) |
 ## Matrix
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/oxanuragofficial/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/oxanuragofficial/dsa-practice/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/oxanuragofficial/dsa-practice/tree/master/0074-search-a-2d-matrix) |
+| [0441-arranging-coins](https://github.com/oxanuragofficial/dsa-practice/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/oxanuragofficial/dsa-practice/tree/master/0704-binary-search) |
 ## String Matching
 |  |
