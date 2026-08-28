@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/oxanuragofficial/dsa-practice/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/oxanuragofficial/dsa-practice/tree/master/0766-toeplitz-matrix) |
 | [0877-stone-game](https://github.com/oxanuragofficial/dsa-practice/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/oxanuragofficial/dsa-practice/tree/master/0896-monotonic-array) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/oxanuragofficial/dsa-practice/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Hash Table
 |  |
