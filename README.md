@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/oxanuragofficial/dsa-practice/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/oxanuragofficial/dsa-practice/tree/master/0766-toeplitz-matrix) |
 | [0877-stone-game](https://github.com/oxanuragofficial/dsa-practice/tree/master/0877-stone-game) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/oxanuragofficial/dsa-practice/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/oxanuragofficial/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/oxanuragofficial/dsa-practice/tree/master/0045-jump-game-ii) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/oxanuragofficial/dsa-practice/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Trie
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/oxanuragofficial/dsa-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/oxanuragofficial/dsa-practice/tree/master/0088-merge-sorted-array) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/oxanuragofficial/dsa-practice/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Quicksort
 |  |
 | ------- |
