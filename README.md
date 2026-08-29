@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/oxanuragofficial/dsa-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/oxanuragofficial/dsa-practice/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/oxanuragofficial/dsa-practice/tree/master/0041-first-missing-positive) |
+| [0202-happy-number](https://github.com/oxanuragofficial/dsa-practice/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/oxanuragofficial/dsa-practice/tree/master/0383-ransom-note) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/oxanuragofficial/dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/oxanuragofficial/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/oxanuragofficial/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/oxanuragofficial/dsa-practice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/oxanuragofficial/dsa-practice/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/oxanuragofficial/dsa-practice/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/oxanuragofficial/dsa-practice/tree/master/1768-merge-strings-alternately) |
 ## Math
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/oxanuragofficial/dsa-practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/oxanuragofficial/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/oxanuragofficial/dsa-practice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/oxanuragofficial/dsa-practice/tree/master/0202-happy-number) |
 | [0415-add-strings](https://github.com/oxanuragofficial/dsa-practice/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/oxanuragofficial/dsa-practice/tree/master/0441-arranging-coins) |
 | [0877-stone-game](https://github.com/oxanuragofficial/dsa-practice/tree/master/0877-stone-game) |
@@ -202,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/oxanuragofficial/dsa-practice/tree/master/0070-climbing-stairs) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/oxanuragofficial/dsa-practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
