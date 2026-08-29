@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/oxanuragofficial/dsa-practice/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/oxanuragofficial/dsa-practice/tree/master/0383-ransom-note) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/oxanuragofficial/dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2351-first-letter-to-appear-twice](https://github.com/oxanuragofficial/dsa-practice/tree/master/2351-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/oxanuragofficial/dsa-practice/tree/master/1108-defanging-an-ip-address) |
 | [1768-merge-strings-alternately](https://github.com/oxanuragofficial/dsa-practice/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/oxanuragofficial/dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2351-first-letter-to-appear-twice](https://github.com/oxanuragofficial/dsa-practice/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/oxanuragofficial/dsa-practice/tree/master/0383-ransom-note) |
+| [2351-first-letter-to-appear-twice](https://github.com/oxanuragofficial/dsa-practice/tree/master/2351-first-letter-to-appear-twice) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/oxanuragofficial/dsa-practice/tree/master/0067-add-binary) |
+| [2351-first-letter-to-appear-twice](https://github.com/oxanuragofficial/dsa-practice/tree/master/2351-first-letter-to-appear-twice) |
 ## Memoization
 |  |
 | ------- |
