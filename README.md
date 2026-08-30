@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/oxanuragofficial/dsa-practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oxanuragofficial/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/oxanuragofficial/dsa-practice/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/oxanuragofficial/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/oxanuragofficial/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/oxanuragofficial/dsa-practice/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/oxanuragofficial/dsa-practice/tree/master/0766-toeplitz-matrix) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/oxanuragofficial/dsa-practice/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/oxanuragofficial/dsa-practice/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/oxanuragofficial/dsa-practice/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/oxanuragofficial/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/oxanuragofficial/dsa-practice/tree/master/0383-ransom-note) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/oxanuragofficial/dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/oxanuragofficial/dsa-practice/tree/master/2351-first-letter-to-appear-twice) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/oxanuragofficial/dsa-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/oxanuragofficial/dsa-practice/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/oxanuragofficial/dsa-practice/tree/master/0217-contains-duplicate) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/oxanuragofficial/dsa-practice/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Quicksort
 |  |
