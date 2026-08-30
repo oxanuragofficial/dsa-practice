@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/oxanuragofficial/dsa-practice/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/oxanuragofficial/dsa-practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/oxanuragofficial/dsa-practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/oxanuragofficial/dsa-practice/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/oxanuragofficial/dsa-practice/tree/master/0383-ransom-note) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/oxanuragofficial/dsa-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/oxanuragofficial/dsa-practice/tree/master/2351-first-letter-to-appear-twice) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/oxanuragofficial/dsa-practice/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/oxanuragofficial/dsa-practice/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/oxanuragofficial/dsa-practice/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/oxanuragofficial/dsa-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/oxanuragofficial/dsa-practice/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/oxanuragofficial/dsa-practice/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/oxanuragofficial/dsa-practice/tree/master/0412-fizz-buzz) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/oxanuragofficial/dsa-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/oxanuragofficial/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/oxanuragofficial/dsa-practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/oxanuragofficial/dsa-practice/tree/master/0242-valid-anagram) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/oxanuragofficial/dsa-practice/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Quicksort
 |  |
