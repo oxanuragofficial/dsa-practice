@@ -8,7 +8,12 @@ class Solution {
         char [] tarr=t.toCharArray();
         Arrays.sort(sarr);
         Arrays.sort(tarr);
+        for(int i=0; i<sarr.length; i++){
+                if(sarr[i]!=tarr[i]){
+                    return false;
+                }
+        }
 
-        return Arrays.equals(sarr, tarr);
+        return true;
     }
 }
