@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/oxanuragofficial/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/oxanuragofficial/dsa-practice/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/oxanuragofficial/dsa-practice/tree/master/0383-ransom-note) |
+| [0412-fizz-buzz](https://github.com/oxanuragofficial/dsa-practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/oxanuragofficial/dsa-practice/tree/master/0415-add-strings) |
 | [1108-defanging-an-ip-address](https://github.com/oxanuragofficial/dsa-practice/tree/master/1108-defanging-an-ip-address) |
 | [1768-merge-strings-alternately](https://github.com/oxanuragofficial/dsa-practice/tree/master/1768-merge-strings-alternately) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/oxanuragofficial/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/oxanuragofficial/dsa-practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/oxanuragofficial/dsa-practice/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/oxanuragofficial/dsa-practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/oxanuragofficial/dsa-practice/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/oxanuragofficial/dsa-practice/tree/master/0441-arranging-coins) |
 | [0877-stone-game](https://github.com/oxanuragofficial/dsa-practice/tree/master/0877-stone-game) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/oxanuragofficial/dsa-practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/oxanuragofficial/dsa-practice/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/oxanuragofficial/dsa-practice/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/oxanuragofficial/dsa-practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/oxanuragofficial/dsa-practice/tree/master/0415-add-strings) |
 ## Counting
 |  |
