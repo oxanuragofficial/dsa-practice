@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/oxanuragofficial/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/oxanuragofficial/dsa-practice/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/oxanuragofficial/dsa-practice/tree/master/0896-monotonic-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/oxanuragofficial/dsa-practice/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/oxanuragofficial/dsa-practice/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Hash Table
 |  |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/oxanuragofficial/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/oxanuragofficial/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/oxanuragofficial/dsa-practice/tree/master/0242-valid-anagram) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/oxanuragofficial/dsa-practice/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/oxanuragofficial/dsa-practice/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Quicksort
 |  |
