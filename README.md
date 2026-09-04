@@ -22,11 +22,7 @@
 
 <br><br>
 
-<img src="https://img.shields.io/github/stars/oxanuragofficial/dsa-practice?style=for-the-badge&logo=github&label=STARS&color=F59E0B">
-&nbsp;
-<img src="https://img.shields.io/github/last-commit/oxanuragofficial/dsa-practice?style=for-the-badge&label=LAST%20COMMIT&color=2563EB">
-&nbsp;
-<img src="https://img.shields.io/github/repo-size/oxanuragofficial/dsa-practice?style=for-the-badge&label=REPO%20SIZE&color=8B5CF6">
+
 
 </div>
 
