@@ -11,17 +11,16 @@ class Solution {
 
     public List<String> buildArray(int[] target, int n) {
         List<String> ans=new ArrayList<>();
-        Arrays.sort(target);
         int max=0;
         for(int i=0; i<target.length; i++){
             max=Math.max(target[i],max);
         }
 
-        for(int i=1; i<=n; i++){
+        for(int i=1; i<=max; i++){
             if(contains(target,i)){
                 ans.add("Push");
             }
-            else if (i<=max){
+            else{
                 ans.add("Push");
                 ans.add("Pop");
             }
